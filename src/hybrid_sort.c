@@ -14,4 +14,19 @@
  * Ajuste os parâmetros em HybridParams conforme sua proposta (documente no relatório).
  */
 
+void hybrid_sort(int *a, size_t n, const HybridParams *p, Metrics *m) {
+    printf("Hybrid sort em desenvolvimento...\n");
+    /*Se n < insertion_threshold => usar insertion*/
+    
+    /*Pegar valor maximo de profundidade*/
+
+    /*Chamar estimate_disorder*/
+    /*Se a desordem dos dados > estimate_disorder => usar Heap_sort*/
+
+    /* Função recursiva interna  */
+
+    /*Chamar função recursiva */
+    
+}
+
 
